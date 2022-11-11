@@ -16,7 +16,7 @@ public class JadenCase {
 }
 
 class SolutionJadenCase{
-    public String solution(String s) {
+    public String solution1(String s) {
         String allSmall=s.toLowerCase();
         String [] arr = allSmall.split(" ");
 
