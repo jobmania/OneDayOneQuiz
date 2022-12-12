@@ -47,4 +47,24 @@ class ExpectBracketSolution
 
         return answer;
     }
+
+
+
+    public int solution2(int n, int a, int b)
+    {
+        // 깔끔...
+        int round = 0;
+        while(a != b)
+        {
+            a = a/2 + a%2;
+            b = b/2 + b%2;
+            round++;
+        }
+        return round;
+    }
+
+
+
+
+
 }
