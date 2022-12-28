@@ -13,7 +13,7 @@ public class RollCake {
         int[] array = {1, 2, 1, 3, 1, 4, 1, 2};
         int[] array2 = {1, 2, 3, 1, 4};
 
-        int answer = solutionRollCake.solution2(array2);
+        int answer = solutionRollCake.solution3(array);
         System.out.println(answer);
     }
 }
@@ -73,12 +73,31 @@ class SolutionRollCake {
         HashMap<Integer, Integer> map1 = new HashMap<>();
         HashSet<Integer> set1 = new HashSet<>();
 
+        /// 토핑 2번째부터 끝까지 map을 사용해서 각 항목에 대항 중복값을 출력
+        // {1, 2, 1, 3, 1, 4, 1, 2} set 1 map 1:3 2:2 3:1 4;1
+        for(int i =0 ; i< topping.length; i++){
+            int temp = topping[i];
+            map1.put(temp, map1.getOrDefault(temp,0)+1);
+        }
+        set1.add(topping[0]);
+
+        // set.size 와 map,size가 같다면 answer을 올려줘야하며 value가 0 인값도 고려해야함.
+
+        for(int i =0 ; i< topping.length; i++){
+            int temp = topping[i];
+            set1.add(temp);
+            map1.put(temp, map1.getOrDefault(temp,0)-1) ; //찾는다면 value -1;
+
+            // 0이 되면 삭제
+            if(map1.get(temp)==0) map1.remove(temp);
 
 
+            //이후 비교항
+
+            if(set1.size()==map1.size()) answer++;
 
 
-
-
+        }
 
 
         return answer;
