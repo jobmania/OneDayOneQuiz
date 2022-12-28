@@ -5,7 +5,7 @@ public class JumpAndFlash {
 
         JumpAndFlashSolution solution = new JumpAndFlashSolution();
         int n1 = 5000;
-        System.out.println("answer = " + solution.solution(n1));
+        System.out.println("answer는 = " + solution.solution(n1));
     }
 }
 
