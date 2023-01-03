@@ -10,6 +10,7 @@ public class PickGul {
         int k =4;
         int[] arr1 = {1, 3, 2, 5, 4, 5, 2, 3 };  // 3개
         System.out.println("종류 최소 갯수는 " + solution.solution( k,arr1));
+
     }
 
 
