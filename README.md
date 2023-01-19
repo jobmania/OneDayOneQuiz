@@ -23,4 +23,5 @@
 20. 귤 고르기  https://school.programmers.co.kr/learn/courses/30/lessons/138476
 21. 마법의 엘리베이터 https://school.programmers.co.kr/learn/courses/30/lessons/148653
 22. 우박수열 정적분 https://school.programmers.co.kr/learn/courses/30/lessons/134239
-23. 택배배달과 수거하기 https://school.programmers.co.kr/learn/courses/30/lessons/150369
+23. 택배배달과 수거하기(진행중 ) https://school.programmers.co.kr/learn/courses/30/lessons/150369
+24. 이모티콘 할인행사 (진행중 ) https://school.programmers.co.kr/learn/courses/30/lessons/150368
