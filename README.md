@@ -1,6 +1,9 @@
 # OneDayOneQuiz
  다양한 자료구조 및 알고리즘에 대해서 공부
 
+
+## 프로그래머스 퀴즈리스트
+
 1. 최댓값과 최솟값 https://school.programmers.co.kr/learn/courses/30/lessons/12939
 2. JadenCase 문자열 만들기 https://school.programmers.co.kr/learn/courses/30/lessons/12951
 3. 최솟값만들기 https://school.programmers.co.kr/learn/courses/30/lessons/12941
@@ -25,3 +28,8 @@
 22. 우박수열 정적분 https://school.programmers.co.kr/learn/courses/30/lessons/134239
 23. 택배배달과 수거하기(진행중 ) https://school.programmers.co.kr/learn/courses/30/lessons/150369
 24. 이모티콘 할인행사 (진행중 ) https://school.programmers.co.kr/learn/courses/30/lessons/150368
+25. 동적계획법, 정수삼각형
+
+
+## 백준 단계별 퀴즈리스트 
+1. 동적 계획법 https://www.acmicpc.net/step/16
