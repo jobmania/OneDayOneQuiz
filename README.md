@@ -10,7 +10,7 @@
 4. 올바른 괄호 https://school.programmers.co.kr/learn/courses/30/lessons/12909
 5. 숫자의 표현 https://school.programmers.co.kr/learn/courses/30/lessons/12924
 6. 피보나치 수 https://school.programmers.co.kr/learn/courses/30/lessons/12945
-7. 다음 큰 숫자 https://school.programmers.co.kr/learn/courses/30/lessons/12911
+7. 영어 끝말잇기 https://school.programmers.co.kr/learn/courses/30/lessons/12981
 8. 실패율 https://school.programmers.co.kr/learn/courses/30/lessons/42889
 9. 짝지어 제거하기 https://school.programmers.co.kr/learn/courses/30/lessons/12973
 10. 구명보트 https://school.programmers.co.kr/learn/courses/30/lessons/42885
