@@ -126,13 +126,12 @@ class Solution {
         }
         return totalDelivery;
     }
-
 }
 
 class Solution2{
     public long solution(int cap, int n, int[] deliveries, int[] pickups) {
 
-        int answer = 0;
+        long answer = 0;
 
         for(int i = n-1 ; i >-1 ; i--){     // 끝에서부터 시작 해당 위치에 0, 0 일 때까지
             while (deliveries[i] > 0 || pickups[i] > 0){
