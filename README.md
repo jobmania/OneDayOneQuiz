@@ -7,7 +7,7 @@
 1. 최댓값과 최솟값 https://school.programmers.co.kr/learn/courses/30/lessons/12939
 2. JadenCase 문자열 만들기 https://school.programmers.co.kr/learn/courses/30/lessons/12951
 3. 최솟값만들기 https://school.programmers.co.kr/learn/courses/30/lessons/12941
-4. 올바른 괄호 https://school.programmers.co.kr/learn/courses/30/lessons/12909
+4. 스택/큐, 올바른 괄호 https://school.programmers.co.kr/learn/courses/30/lessons/12909
 5. 숫자의 표현 https://school.programmers.co.kr/learn/courses/30/lessons/12924
 6. 피보나치 수 https://school.programmers.co.kr/learn/courses/30/lessons/12945
 7. 영어 끝말잇기 https://school.programmers.co.kr/learn/courses/30/lessons/12981
@@ -30,6 +30,7 @@
 24. 이모티콘 할인행사 (진행중 ) https://school.programmers.co.kr/learn/courses/30/lessons/150368
 25. 동적계획법, 정수삼각형 https://school.programmers.co.kr/learn/courses/30/lessons/43105
 26. 해시, 폰켓몬   https://school.programmers.co.kr/learn/courses/30/lessons/1845
+27. 힙, 더맵게  https://school.programmers.co.kr/learn/courses/30/lessons/42626
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16

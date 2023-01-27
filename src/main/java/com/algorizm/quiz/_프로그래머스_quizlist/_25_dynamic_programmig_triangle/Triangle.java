@@ -25,7 +25,7 @@ class Solution {
         for (int i = 1; i < triangle.length; i++) {
             for (int j = 0; j <= i; j++) {
 
-                //  끝값은 비교해서 넣을 필요가 없음.
+                // 첫번째와 끝값은 비교해서 넣을 필요가 없음.
                 if(j==0) {
                     array[i][j] = array[i-1][0]+triangle[i][j];
                 } else if (j==i) {
@@ -35,7 +35,7 @@ class Solution {
                     tempB = array[i-1][j]+triangle[i][j];
 
                     array[i][j] = Math.max(tempA,tempB); // 둘중 최댓값을 넣기
-                    answer = Math.max(answer, array[i][j]);
+                    answer = Math.max(answer, array[i][j]); // 그리고 모든 최댓값 비교해서 저장하기..
                 }
 
 
