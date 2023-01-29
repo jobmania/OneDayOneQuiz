@@ -30,7 +30,9 @@
 24. 이모티콘 할인행사 (진행중 ) https://school.programmers.co.kr/learn/courses/30/lessons/150368
 25. 동적계획법, 정수삼각형 https://school.programmers.co.kr/learn/courses/30/lessons/43105
 26. 해시, 폰켓몬   https://school.programmers.co.kr/learn/courses/30/lessons/1845
-27. 힙, 더맵게  https://school.programmers.co.kr/learn/courses/30/lessons/42626
+27. 힙, 더맵게 (진행중)  https://school.programmers.co.kr/learn/courses/30/lessons/42626
+28. 다트게임  https://school.programmers.co.kr/learn/courses/30/lessons/17682
+29. 콜라문제 ( 진행중)https://school.programmers.co.kr/learn/courses/30/lessons/132267
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
