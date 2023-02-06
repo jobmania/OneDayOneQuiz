@@ -34,6 +34,7 @@
 28. 다트게임  https://school.programmers.co.kr/learn/courses/30/lessons/17682
 29. 콜라문제 https://school.programmers.co.kr/learn/courses/30/lessons/132267
 30. 둘만의 암호  https://school.programmers.co.kr/learn/courses/30/lessons/155652
+31.
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
