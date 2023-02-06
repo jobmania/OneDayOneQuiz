@@ -31,6 +31,7 @@
 25. 동적계획법, 정수삼각형 https://school.programmers.co.kr/learn/courses/30/lessons/43105
 26. 해시, 폰켓몬   https://school.programmers.co.kr/learn/courses/30/lessons/1845
 27. 힙, 더맵게  https://school.programmers.co.kr/learn/courses/30/lessons/42626
+28. 둘만의 암호  https://school.programmers.co.kr/learn/courses/30/lessons/155652
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
