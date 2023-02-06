@@ -1,4 +1,4 @@
-package com.algorizm.quiz._프로그래머스_quizlist._28_Password;
+package com.algorizm.quiz._프로그래머스_quizlist._30_Password;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
