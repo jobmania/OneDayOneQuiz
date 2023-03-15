@@ -16,7 +16,7 @@ public class Paint {
         int[] ar3 = {1, 2, 3, 4};
 
         Solution solution = new Solution();
-        System.out.println("답 = " + solution.solution(n1,m1,ar1));
+        System.out.println("답 = " + solution.solution(n1,m1,ar1)); // 2 , 1,  4
 
     }
 }
@@ -24,19 +24,15 @@ public class Paint {
 class Solution {
     public int solution(int n, int m, int[] section) {
         int answer = 0;
-        for (int i = 0; i < section.length-1; i++) {
-            int i1 = section[i];
-            int i2 = section[i+1];
-            int diffLeng = i2 - i1;
-            while(diffLeng < m){
-                diffLeng -= m;
+        int point = 0 ; // 마지막 칠한 위치
+        for (int i : section) {
+            if( i > point ){
+                answer++;
+                point += i + m - 1 ;
             }
-            answer++;
-
         }
-        
-        
-        
+
+
         return answer;
     }
 }
