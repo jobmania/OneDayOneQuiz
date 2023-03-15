@@ -28,7 +28,7 @@ class Solution {
         for (int i : section) {
             if( i > point ){
                 answer++;
-                point += i + m - 1 ;
+                point = i + m - 1 ;
             }
         }
 
