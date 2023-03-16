@@ -35,6 +35,7 @@
 29. 콜라문제 https://school.programmers.co.kr/learn/courses/30/lessons/132267
 30. 둘만의 암호  https://school.programmers.co.kr/learn/courses/30/lessons/155652
 31. 덧칠하기 https://school.programmers.co.kr/learn/courses/30/lessons/161989
+32. 혼자서 하는 틱택토 https://school.programmers.co.kr/learn/courses/30/lessons/160585
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
