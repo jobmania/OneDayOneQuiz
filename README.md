@@ -37,7 +37,7 @@
 31. 덧칠하기 https://school.programmers.co.kr/learn/courses/30/lessons/161989
 32. 혼자서 하는 틱택토 https://school.programmers.co.kr/learn/courses/30/lessons/160585
 33. 리코쳇 로봇 https://school.programmers.co.kr/learn/courses/30/lessons/169199
-
+34. 연속된 부분 수열의 합 https://school.programmers.co.kr/learn/courses/30/lessons/178870?language=java
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
