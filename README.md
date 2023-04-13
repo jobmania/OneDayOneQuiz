@@ -41,7 +41,7 @@
 35. H-INDEX https://school.programmers.co.kr/learn/courses/30/lessons/42747
 36. 괄호회전하기 https://school.programmers.co.kr/learn/courses/30/lessons/76502
 37. 캐시 https://school.programmers.co.kr/learn/courses/30/lessons/17680
-38. 
+38. 타겟 넘버 https://school.programmers.co.kr/learn/courses/30/lessons/43165
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
