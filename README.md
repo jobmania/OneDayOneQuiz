@@ -45,7 +45,7 @@
 39. 네트워크 https://school.programmers.co.kr/learn/courses/30/lessons/43162
 40. 행렬의 곱셉 https://school.programmers.co.kr/learn/courses/30/lessons/12949
 41. 요격 시스템 https://school.programmers.co.kr/learn/courses/30/lessons/181188
-
+42. 달리기 경주 https://school.programmers.co.kr/learn/courses/30/lessons/178871
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
