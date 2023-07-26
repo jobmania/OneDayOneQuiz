@@ -1,4 +1,4 @@
-package com.algorizm.quiz._프로그래머스_quizlist._47_공원산책;
+package com.algorizm.quiz._프로그래머스_quizlist._46_공원산책;
 
 import java.util.Arrays;
 
