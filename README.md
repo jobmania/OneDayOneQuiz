@@ -49,6 +49,7 @@
 43. 당구 https://school.programmers.co.kr/learn/courses/30/lessons/169198
 44. 의상 https://school.programmers.co.kr/learn/courses/30/lessons/42578
 45. 추억점수 https://school.programmers.co.kr/learn/courses/30/lessons/176963
+46. 공원산책 https://school.programmers.co.kr/learn/courses/30/lessons/172928
 
 ## 백준 단계별 퀴즈리스트 
 1. 동적 계획법 https://www.acmicpc.net/step/16
